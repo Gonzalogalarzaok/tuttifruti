@@ -1,0 +1,63 @@
+abarth
+alpine
+audi
+aston martin
+alfa romeo
+bentley
+bmw
+borgward
+bugatti
+cadillac
+chevrolet
+citroen
+cupra
+dacia
+dodge
+ds
+ds automobiles
+daewoo
+exagon
+ferrari
+fiat
+ford
+gta motor
+giugiaro
+honda
+hyundai
+iveco
+isuzu
+jaguar
+jeep
+kia
+lamborghini
+land rover
+lexus
+lotus
+maserati
+mazda
+mclaren
+mercedes benz
+mini
+morgan
+mitsubishi
+nissan
+opel
+peugeot
+polaris
+piaggio
+polestar
+porsche
+renault
+rolls royce
+seat
+subaru
+saab
+smart
+suzuki
+tesla
+toyota
+tramontana
+urovesa
+volkswagen
+volvo
+wiesmann
